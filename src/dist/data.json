@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Anatoly Raklyar",
+    "label": "BI and Data Science",
+    "email": "traklyar@yahoo.com",
+    "phone": "646-373-2266",
+    "summary": "Seasoned technology professional with demonstrated experience building complex intelligence systems for optimizing marketing and financial performance. Able to significantly improve marketing ROI by integrating internal and external data assets and using the most sophisticated, scalable classification algorythms for precise targeting.\n\nHelped most companies I worked for become #1\n\nExperience in healthcare, marketing and financial analytics architecture, complex systems design, software development lifecycle, financial data analysis, knowledge-based and direct marketing systems, B2B and consumer logical and physical database modeling, dimensional modeling, ETL, metadata management, web log and transaction log analysis and data mining techniques. Excellent communication and presentation skills. Fluent in English and Russian.",
+    "location": {
+      "address": "17 Marie Terrace",
+      "postal code": "NJ 07052",
+      "city": "West Orange",
+      "countryCode": "US",
+      "region": "New Jersey"
+    }
+  },
+  "skills": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Google Analytics",
+        "Excel, Tableau, Looker",
+        "Hadoop, Spark",
+        "ERWin",
+        "SQL Server",
+        "SSIS, SSRS, SSAS",
+        "Visual Studio Development",
+        "Python",
+        "Google GTM, Integration",
+        "Ab Initio",
+        "C#",
+        "Git"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "keywords": [
+        "MLib",
+        "Pandas",
+        "SAS",
+        "SPSS",
+        "TensorFlow,Keras",
+        "CUDA Algos"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Staten Island Performing Provider System",
+      "position": "Data Analytics Lead",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-01",
+      "summary": "Built Azure-based data warehouse to improve healthcare delivery",
+      "highlights": [
+        "Managed ETL, analytics and reports distribution related to dozens of agencies and providers and over one hundred thousand patients",
+        "Migrated infrastructure from on-premise to Azure cloud",
+        "Increased number of data sources, improved processing speed and data availability",
+        "Oversaw teams of consultants supporting cloud and workstation infrastructure"
+      ]
+    },
+    {
+      "company": "Big Data Storm",
+      "position": "Cofounder",
+      "startDate": "2015-10-01",
+      "endDate": "2017-04-01",
+      "summary": "Built GPU-based big data sorting solutions to speed up sorting and analytically challenging processes.",
+      "highlights": [
+        "Created a component to seamlessly replace CPU-based sorter with GPU-based equivalent for large scale ETL implementations.",
+        "Used existing and cutting-edge CUDA algorithms to parallellize complex sorting.",
+        "Enabled same simultaneous data insights using simultaneous in-memory on-the-fly analytical processing."
+      ]
+    },
+    {
+      "company": "Artnet",
+      "position": "Data Scientist",
+      "startDate": "2014-06-01",
+      "endDate": "2015-10-01",
+      "summary": "Full cycle of marketing and financial reporting for every department in organization: data integration, data warehouse development, web log analysis, ETL via SSIS, reporting via SSRS, complex SQL development, Git, Google Analytics and email logs to data warehouse feeds, business analysis and development of data products and reports for dozens of customers within company.",
+      "highlights": [
+        "Enhanced product offering while reducing churn by 30% through integrating Google Analytics with existing analytics infrastructure",
+        "Significantly improved targeting by including 360 degree view of customer interests into existing list generation process.",
+        "Improved customer experience by introducing new QA code that caught complex billing issues.",
+        "Improved analytics for every customer-facing department in the company."
+      ]
+    },
+    {
+      "company": "RER Research",
+      "position": "Principal",
+      "startDate": "2003-03-01",
+      "endDate": "2014-06-01",
+      "summary": "Built a data warehouse/analytical system for 24/5 real-time financial markets analysis using various financial, exchange and regulatory data.",
+      "highlights": [
+        "C# for gathering, real-time and batch ETL processing of various high and low latency financial market data.",
+        "Sophisticated data quality procedures to ensure clean data in and out.",
+        "Data mining market data and establishing patterns and causality relationships using state of the art machine learning technologies.",
+        "Developing and implementing trading algorithms.",
+        "Ab Intio and Informatica consulting – financial data processing, data modeling, and data quality assurance."
+      ]
+    },
+    {
+      "company": "RxClinical Corp. ",
+      "position": "Consultant",
+      "startDate": "2005-12-01",
+      "endDate": "2008-08-01",
+      "summary": "Developed and supported data infrastructure for a clinical research organization.",
+      "highlights": [
+        "Developed logical and physical database structures to capture results of clinical tests.",
+        "Provided statistical input for design of protocols. ",
+        "Recommended statistical designs that would be acceptable to regulators.",
+        "Analyzed and reported results of clinical trials. Provided tables, listings and graphs for final study reports.",
+        "Provided project requirements to programmers, managed outside CROs and consultants."
+      ]
+    },
+    {
+      "company": "DoubleClick, Inc. (now Google) ",
+      "position": "Technical Project Leader",
+      "summary": "Developed large scale Business Intelligence solution for e-commerce strategy formulation and web site personalization. Project resulted in substantial growth in global installations and improvement in functionality and scalability across all products."
+    },
+    {
+      "company": "AIG, Inc.",
+      "position": "Database Administrator",
+      "summary": "Developed enterprise-wide data warehouse environment for marketing, CRM, and data mining. Project grew into corporate data warehouse environment storing information on all B2B relationships resulting in significant improvement in operations efficiency."
+    },
+    {
+      "company": "Metropolitan Life Insurance Company ",
+      "position": "Actuarial Student"
+    }
+  ],
+  "education": [
+    {
+      "institution": "New York University Stern School of Business",
+      "area": "Management with concentration in Marketing, Finance and IS",
+      "studyType": "MBA",
+      "endDate": "2002"
+    },
+    {
+      "institution": "New York University Stern School of Business",
+      "area": "Accounting with Minor in Economics",
+      "studyType": "BS",
+      "endDate": "1993"
+    }
+  ]
+}

@@ -24,9 +24,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/dist/src/railscasts.min.css",
+              "src/dist/src/scribbler-global.css",
+              "src/dist/src/scribbler-landing.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/dist/src/jquery.min.js.download",
+              "src/dist/src/popper.min.js.download",
+              "src/dist/src/bootstrap.min.js.download",
+              "src/dist/src/scribbler.js"
+            ]
           },
           "configurations": {
             "production": {
